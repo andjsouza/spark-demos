@@ -328,3 +328,19 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+
+#Eclipse
+.project
+.classpath
+.settings
+.metadata
+target
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+#VS Code
+.vscode
+.DS_Store
